@@ -1,6 +1,5 @@
 - Hi, I’m @MoriiSan
 - I’m interested in Game Development and Cyber Security
-- I’m currently learning Java
 - I have an ITS in Python certification
 
 <!---
