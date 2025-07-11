@@ -1,4 +1,4 @@
-# Hi, I'm Mori!
+# Hi, I'm Mori 👋
 
 
 ## 💻 Tech Stack:
@@ -6,13 +6,11 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MoriiSan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=MoriiSan&theme=highcontrast&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriiSan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=MoriiSan&theme=highcontrast&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriiSan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact )
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhenna-mariejoy-dela-torre-74721920a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thisisjhenna@gmail.com) 
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
